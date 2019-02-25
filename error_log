@@ -1,0 +1,507 @@
+[29-Jan-2019 09:34:20 Etc/GMT] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:34:20 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:34:20 Etc/GMT] PHP Notice:  Undefined variable: con in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:34:20 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:34:20 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/websbaba/public_html/ebill/waka-login.php on line 7
+[29-Jan-2019 09:34:34 Etc/GMT] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:34:34 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:34:34 Etc/GMT] PHP Notice:  Undefined variable: con in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:34:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:34:34 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/websbaba/public_html/ebill/waka-login.php on line 7
+[29-Jan-2019 09:34:51 Etc/GMT] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:34:51 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:34:51 Etc/GMT] PHP Notice:  Undefined variable: con in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:34:51 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:34:51 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/websbaba/public_html/ebill/waka-login.php on line 7
+[29-Jan-2019 09:37:27 Etc/GMT] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:37:27 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:37:27 Etc/GMT] PHP Notice:  Undefined variable: con in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:37:27 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:37:27 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/websbaba/public_html/ebill/waka-login.php on line 7
+[29-Jan-2019 09:54:46 Etc/GMT] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:54:46 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:54:46 Etc/GMT] PHP Notice:  Undefined variable: con in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:54:46 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:54:46 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/websbaba/public_html/ebill/waka-login.php on line 7
+[29-Jan-2019 09:55:49 Etc/GMT] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:55:49 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:55:49 Etc/GMT] PHP Notice:  Undefined variable: con in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:55:49 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:55:49 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/websbaba/public_html/ebill/waka-login.php on line 7
+[29-Jan-2019 09:56:40 Etc/GMT] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:56:40 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:56:40 Etc/GMT] PHP Notice:  Undefined variable: con in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:56:40 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:56:40 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/websbaba/public_html/ebill/waka-login.php on line 7
+[29-Jan-2019 09:58:15 Etc/GMT] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:58:15 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:58:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:58:15 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:58:15 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/websbaba/public_html/ebill/waka-login.php on line 7
+[29-Jan-2019 09:58:50 Etc/GMT] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:58:50 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 09:58:50 Etc/GMT] PHP Notice:  Undefined variable: con in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:58:50 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 09:58:50 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/websbaba/public_html/ebill/waka-login.php on line 7
+[29-Jan-2019 10:02:28 Etc/GMT] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 10:02:28 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 10:02:28 Etc/GMT] PHP Notice:  Undefined variable: con in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 10:02:28 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 10:02:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/websbaba/public_html/ebill/waka-login.php on line 7
+[29-Jan-2019 10:03:14 Etc/GMT] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 10:03:14 Etc/GMT] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/websbaba/public_html/ebill/waka-login.php on line 3
+[29-Jan-2019 10:03:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 10:03:14 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/websbaba/public_html/ebill/waka-login.php on line 6
+[29-Jan-2019 10:03:14 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/websbaba/public_html/ebill/waka-login.php on line 7
+[05-Feb-2019 06:22:53 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[05-Feb-2019 06:22:53 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[05-Feb-2019 06:37:00 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[05-Feb-2019 06:37:00 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[06-Feb-2019 09:34:47 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[06-Feb-2019 09:34:47 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[06-Feb-2019 09:34:47 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[06-Feb-2019 10:32:42 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[06-Feb-2019 10:32:42 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[06-Feb-2019 10:32:42 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[06-Feb-2019 11:30:29 Etc/GMT] PHP Notice:  Undefined index: admin_username in /home/websbaba/public_html/ebill/print-invoice.php on line 6
+[06-Feb-2019 11:49:47 Etc/GMT] PHP Notice:  Undefined index: admin_username in /home/websbaba/public_html/ebill/header.php on line 3
+[06-Feb-2019 11:55:26 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[06-Feb-2019 11:55:26 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[06-Feb-2019 11:55:26 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:31 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:31 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:31 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:31 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:31 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:31 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:35 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:35 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:35 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:35 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:35 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:35 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:40 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:40 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:40 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:40 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:40 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:40 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:44 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:44 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:44 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:44 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:44 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:44 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:53 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:53 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:53 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:53 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:53 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:53 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:57 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:57 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:57 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:57 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:57 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:30:57 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 08:59:42 Etc/GMT] PHP Notice:  Undefined index: admin_username in /home/websbaba/public_html/ebill/header.php on line 3
+[07-Feb-2019 08:59:42 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[07-Feb-2019 08:59:46 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[07-Feb-2019 09:03:43 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[07-Feb-2019 09:24:46 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/websbaba/public_html/ebill/header.php:8) in /home/websbaba/public_html/ebill/edit-product.php on line 26
+[07-Feb-2019 09:24:55 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/websbaba/public_html/ebill/header.php:8) in /home/websbaba/public_html/ebill/edit-product.php on line 26
+[07-Feb-2019 09:25:10 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/websbaba/public_html/ebill/header.php:8) in /home/websbaba/public_html/ebill/edit-product.php on line 26
+[07-Feb-2019 10:16:44 Etc/GMT] PHP Notice:  Undefined index: admin_username in /home/websbaba/public_html/ebill/header.php on line 3
+[07-Feb-2019 10:21:07 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:21:07 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:21:07 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:21:07 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:21:40 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:21:40 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:21:40 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:21:40 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:40:54 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:40:54 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:40:54 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:40:54 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:43:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:43:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:43:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:43:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[07-Feb-2019 10:43:51 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/action.php on line 76
+[07-Feb-2019 10:43:51 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/websbaba/public_html/ebill/pay-reciept.php on line 23
+[07-Feb-2019 10:43:51 Etc/GMT] PHP Notice:  Undefined index: serviceTaxno in /home/websbaba/public_html/ebill/pay-reciept.php on line 33
+[07-Feb-2019 10:47:16 Etc/GMT] PHP Notice:  Undefined index: cheque_no in /home/websbaba/public_html/ebill/action.php on line 53
+[07-Feb-2019 10:47:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/action.php on line 76
+[07-Feb-2019 10:47:16 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/websbaba/public_html/ebill/pay-reciept.php on line 23
+[07-Feb-2019 10:47:16 Etc/GMT] PHP Notice:  Undefined index: serviceTaxno in /home/websbaba/public_html/ebill/pay-reciept.php on line 33
+[07-Feb-2019 11:57:48 Etc/GMT] PHP Notice:  Undefined index: cheque_no in /home/websbaba/public_html/ebill/action.php on line 53
+[07-Feb-2019 11:57:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/action.php on line 76
+[07-Feb-2019 11:57:49 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/websbaba/public_html/ebill/pay-reciept.php on line 23
+[07-Feb-2019 11:57:49 Etc/GMT] PHP Notice:  Undefined index: serviceTaxno in /home/websbaba/public_html/ebill/pay-reciept.php on line 33
+[07-Feb-2019 12:00:43 Etc/GMT] PHP Notice:  Undefined index: cheque_no in /home/websbaba/public_html/ebill/action.php on line 53
+[07-Feb-2019 12:00:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/action.php on line 76
+[07-Feb-2019 12:00:44 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/websbaba/public_html/ebill/pay-reciept.php on line 23
+[07-Feb-2019 12:00:44 Etc/GMT] PHP Notice:  Undefined index: serviceTaxno in /home/websbaba/public_html/ebill/pay-reciept.php on line 33
+[07-Feb-2019 12:31:29 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/websbaba/public_html/ebill/header.php:8) in /home/websbaba/public_html/ebill/edit-product.php on line 26
+[07-Feb-2019 12:32:22 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[07-Feb-2019 12:59:52 Etc/GMT] PHP Notice:  Undefined index: admin_username in /home/websbaba/public_html/ebill/header.php on line 3
+[07-Feb-2019 13:10:36 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/websbaba/public_html/ebill/header.php:8) in /home/websbaba/public_html/ebill/edit-product.php on line 26
+[07-Feb-2019 13:25:56 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:25:57 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:26:00 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:32:17 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:32:43 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[07-Feb-2019 13:32:43 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[07-Feb-2019 13:35:40 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:35:40 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:35:41 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:35:41 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:40:04 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:40:05 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:40:06 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:40:28 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[07-Feb-2019 13:40:28 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[07-Feb-2019 13:44:16 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:47:06 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[07-Feb-2019 13:47:06 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[07-Feb-2019 13:51:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:51:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 13:52:06 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[07-Feb-2019 13:52:06 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[07-Feb-2019 14:00:32 Etc/GMT] PHP Notice:  Undefined index: admin_username in /home/websbaba/public_html/ebill/header.php on line 3
+[07-Feb-2019 14:15:09 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:15:10 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:17:02 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[07-Feb-2019 14:17:02 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[07-Feb-2019 14:31:08 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:32:00 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:32:01 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:32:03 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:32:03 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:32:04 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:34:28 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[07-Feb-2019 14:34:28 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[07-Feb-2019 14:39:27 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:39:29 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:39:30 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:39:45 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[07-Feb-2019 14:39:45 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[07-Feb-2019 14:51:34 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[07-Feb-2019 14:51:34 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[07-Feb-2019 14:51:35 Etc/GMT] PHP Notice:  Undefined index: sac in /home/websbaba/public_html/ebill/print-invoice.php on line 42
+[07-Feb-2019 14:52:17 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:52:17 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 14:52:25 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[07-Feb-2019 14:52:25 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[07-Feb-2019 14:52:25 Etc/GMT] PHP Notice:  Undefined index: sac in /home/websbaba/public_html/ebill/print-invoice.php on line 42
+[07-Feb-2019 15:25:40 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/websbaba/public_html/ebill/header.php:8) in /home/websbaba/public_html/ebill/edit-product.php on line 26
+[07-Feb-2019 15:26:11 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 15:26:13 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 15:26:15 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 15:26:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 15:26:20 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 15:26:20 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 15:28:22 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 15:28:23 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 15:28:25 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 15:28:27 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 15:28:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 15:29:34 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[07-Feb-2019 15:29:34 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[07-Feb-2019 16:03:36 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 16:03:37 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 16:04:18 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 16:04:20 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 16:04:21 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[07-Feb-2019 16:04:22 Etc/GMT] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/websbaba/public_html/ebill/ajax.php on line 14
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:02:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 05:57:37 Etc/GMT] PHP Notice:  Undefined index: admin_username in /home/websbaba/public_html/ebill/header.php on line 3
+[08-Feb-2019 06:39:37 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 06:39:37 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:42:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 06:59:11 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 06:59:11 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 07:00:01 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 07:00:01 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 07:01:01 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 09:21:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:19:07 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/websbaba/public_html/ebill/header.php:8) in /home/websbaba/public_html/ebill/edit-product.php on line 30
+[08-Feb-2019 10:22:28 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/websbaba/public_html/ebill/header.php:8) in /home/websbaba/public_html/ebill/edit-product.php on line 30
+[08-Feb-2019 10:43:41 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 10:43:41 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 10:59:18 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:00:26 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 11:00:26 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 11:07:01 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 11:07:01 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 11:55:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:33:06 Etc/GMT] PHP Notice:  Undefined index: admin_username in /home/websbaba/public_html/ebill/header.php on line 3
+[08-Feb-2019 12:42:53 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 12:42:53 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 12:42:53 Etc/GMT] PHP Notice:  Undefined index: address in /home/websbaba/public_html/ebill/add-invoice.php on line 27
+[08-Feb-2019 12:51:28 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/websbaba/public_html/ebill/header.php:8) in /home/websbaba/public_html/ebill/edit-product.php on line 30
+[08-Feb-2019 12:51:34 Etc/GMT] PHP Notice:  Undefined index: admin_username in /home/websbaba/public_html/ebill/print-invoice.php on line 6
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:51:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 12:52:29 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 12:52:29 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 12:56:23 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 12:56:23 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 12:57:21 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 12:57:21 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 13:02:14 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 13:02:14 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:10:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[08-Feb-2019 13:17:22 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 13:17:22 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 13:18:14 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 13:18:14 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 13:19:56 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 13:19:56 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 13:22:21 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 13:22:21 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[08-Feb-2019 13:30:27 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[08-Feb-2019 13:30:27 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[09-Feb-2019 05:36:10 Etc/GMT] PHP Notice:  Undefined index: username in /home/websbaba/public_html/ebill/waka-login.php on line 12
+[09-Feb-2019 05:36:10 Etc/GMT] PHP Notice:  Undefined index: password in /home/websbaba/public_html/ebill/waka-login.php on line 13
+[09-Feb-2019 05:47:24 Etc/GMT] PHP Notice:  Undefined index: username in /home/websbaba/public_html/ebill/waka-login.php on line 12
+[09-Feb-2019 05:47:24 Etc/GMT] PHP Notice:  Undefined index: password in /home/websbaba/public_html/ebill/waka-login.php on line 13
+[09-Feb-2019 07:49:55 Etc/GMT] PHP Notice:  Undefined index: username in /home/websbaba/public_html/ebill/waka-login.php on line 12
+[09-Feb-2019 07:49:55 Etc/GMT] PHP Notice:  Undefined index: password in /home/websbaba/public_html/ebill/waka-login.php on line 13
+[09-Feb-2019 08:02:46 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[09-Feb-2019 08:02:46 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[09-Feb-2019 08:11:26 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[09-Feb-2019 08:11:26 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined index: admin_username in /home/websbaba/public_html/ebill/header.php on line 3
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[09-Feb-2019 14:28:43 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[13-Feb-2019 05:17:45 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[13-Feb-2019 05:17:51 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[13-Feb-2019 05:23:55 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[13-Feb-2019 05:27:48 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[13-Feb-2019 05:27:48 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[13-Feb-2019 05:30:50 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[13-Feb-2019 07:51:46 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[13-Feb-2019 07:51:48 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[13-Feb-2019 07:58:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/websbaba/public_html/ebill/print-invoice.php on line 209
+[13-Feb-2019 07:59:19 Etc/GMT] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/websbaba/public_html/ebill/print-invoice.php on line 209
+[13-Feb-2019 08:06:00 Etc/GMT] PHP Notice:  Undefined variable: paid_amtBefore in /home/websbaba/public_html/ebill/print-invoice.php on line 209
+[13-Feb-2019 08:55:47 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[13-Feb-2019 08:57:13 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[13-Feb-2019 08:57:13 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[13-Feb-2019 09:13:29 Etc/GMT] PHP Notice:  Undefined index: admin_username in /home/websbaba/public_html/ebill/print-invoice.php on line 8
+[13-Feb-2019 09:13:31 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[13-Feb-2019 09:13:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[13-Feb-2019 09:13:33 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[13-Feb-2019 09:53:32 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[13-Feb-2019 09:54:23 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[13-Feb-2019 09:54:59 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[13-Feb-2019 09:54:59 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[14-Feb-2019 11:30:36 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[14-Feb-2019 11:31:19 Etc/GMT] PHP Notice:  Undefined index: hsnno in /home/websbaba/public_html/ebill/add-invoice.php on line 21
+[14-Feb-2019 11:31:19 Etc/GMT] PHP Notice:  Undefined index: working_days in /home/websbaba/public_html/ebill/add-invoice.php on line 22
+[14-Feb-2019 11:35:01 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[15-Feb-2019 05:14:24 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[15-Feb-2019 12:19:14 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[15-Feb-2019 12:19:20 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 12:19:20 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 12:19:20 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 12:20:32 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 12:20:32 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 12:20:32 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 12:20:51 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[15-Feb-2019 13:33:03 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[15-Feb-2019 13:33:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 13:33:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 13:33:39 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 13:33:51 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 13:33:51 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 13:33:51 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 13:34:58 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 13:34:58 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 13:34:58 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 13:35:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 13:35:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 13:35:16 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[15-Feb-2019 13:36:45 Etc/GMT] PHP Notice:  Undefined index: cheque_no in /home/websbaba/public_html/ebill/action.php on line 55
+[15-Feb-2019 13:36:45 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/action.php on line 78
+[15-Feb-2019 13:36:46 Etc/GMT] PHP Notice:  Undefined offset: 1 in /home/websbaba/public_html/ebill/pay-reciept.php on line 23
+[15-Feb-2019 13:36:46 Etc/GMT] PHP Notice:  Undefined index: serviceTaxno in /home/websbaba/public_html/ebill/pay-reciept.php on line 33
+[15-Feb-2019 13:37:15 Etc/GMT] PHP Notice:  Undefined variable: balanceAmt in /home/websbaba/public_html/ebill/invoice_list.php on line 70
+[16-Feb-2019 11:15:18 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[16-Feb-2019 14:26:43 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[16-Feb-2019 15:11:43 Etc/GMT] PHP Notice:  Undefined index: admin_username in /home/websbaba/public_html/ebill/header.php on line 3
+[16-Feb-2019 15:11:43 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[17-Feb-2019 03:19:50 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12
+[17-Feb-2019 03:20:52 Etc/GMT] PHP Notice:  Undefined offset: 3 in /home/websbaba/public_html/ebill/create-invoice.php on line 12

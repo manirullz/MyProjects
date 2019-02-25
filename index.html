@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>NASIS | Login</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+ <!-- Bootstrap Core CSS -->
+<link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+<!-- Custom CSS -->
+<link href="css/style.css" rel='stylesheet' type='text/css' />
+<link href="css/font-awesome.css" rel="stylesheet"> 
+<!-- jQuery -->
+<script src="js/jquery.min.js"></script>
+<!----webfonts--->
+<link href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
+<!---//webfonts--->  
+<!-- Bootstrap Core JavaScript -->
+
+<script src="js/bootstrap.min.js"></script>
+
+</head>
+<body id="login">
+  <img src="images/logo.png" style="padding-left: 43%;"><br>
+   <h2 class="form-heading" style="margin-top:2%;">login</h2>
+   <p></p>
+  <div class="app-cam">
+	  <form action="waka-login.php" id="lg-form" name="lg-form" method="post">
+		<input type="text" name="username" id="username" placeholder="username" required/>
+		<input type="password" name="password" id="password" placeholder="password" />
+		<div class="submit"><input type="submit" id="login" value="Login"></div>
+        <div id="message"></div>		
+		<ul class="new">
+			<li class="new_left"><p><a href="#">Forgot Password ?</a></p></li>
+			<!--<li class="new_right"><p class="sign">New here ?<a href="register.html"> Sign Up</a></p></li>-->
+			<div class="clearfix"></div>
+		</ul>
+	</form>
+  </div>
+   <div class="copy_layout login">
+      <p>Copyright &copy; 2019 Websbaba All Rights Reserved | Powered by <a href="http://websbaba.in/" target="_blank">Websbaba</a> </p>
+   </div>
+</body>
+</html>
