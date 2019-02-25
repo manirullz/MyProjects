@@ -2,6 +2,7 @@
 <div id="page-wrapper">
         <div class="graphs">
 	     <div class="xs">
+		 <!-- ADD PRODUCT SECTION --->
   	       <h3>Add Service Type</h3>
   	         <div class="tab-content">
 						<div class="tab-pane active" id="horizontal-form">
